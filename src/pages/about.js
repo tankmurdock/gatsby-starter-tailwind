@@ -19,7 +19,7 @@ function AboutPage() {
             is, which is something much darker, more contradictory, more of a
             maelstrom of impulses and passions, of cruelty, ecstacy, and madness,
             than is apparent to the civilized being who glides on the surface and
-            fits smoothly into the world.  Yeah, what he said!
+            fits smoothly into the world.
         </p>
 
           <p className="font-bold mt-4 text-right text-xs uppercase">
